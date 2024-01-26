@@ -1,4 +1,4 @@
-#Codecademy off-platform Project: Club Website
+# Codecademy off-platform Project: Club Website
 
 In this project I created a simple Webpage for a fictive Club of Cactus Enthusiast to share their knowledge and get in contact with each other.
 Based on the instructions of Codecademy, the page is build in HTML and CSS only.
